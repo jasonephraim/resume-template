@@ -562,3 +562,9 @@ body {
     font-weight: 700;
     color: #333
 }
+
+ul {
+    columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
