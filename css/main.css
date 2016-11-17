@@ -563,7 +563,7 @@ body {
     color: #333
 }
 
-ul {
+ul .howdy {
     columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
